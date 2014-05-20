@@ -1,5 +1,5 @@
 $NetBSD$
 
-SHA1 (runit-2.0.0.tar.gz) = a48d8579478fbcef37c347c3aa986f23fe528241
-RMD160 (runit-2.0.0.tar.gz) = fc55f22462b5b05d991558adf99468777789671a
-Size (runit-2.0.0.tar.gz) = 104373 bytes
+SHA1 (runit-2.1.1.tar.gz) = 8eee39639dcb79ba251ca4ab2c7cde38059f09c2
+RMD160 (runit-2.1.1.tar.gz) = 60f3d3b377bc9741ca96d2e953f86461368d6d29
+Size (runit-2.1.1.tar.gz) = 109661 bytes
